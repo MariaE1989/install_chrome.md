@@ -9,6 +9,6 @@
 ## Шаги установки
 
 1. Откройте браузер (например, Microsoft Edge)
-2. Перейдите на сайт: [Официальный сайт Chrome] (https://www.google.com/chrome/)
+2. Перейдите на сайт: [Официальный сайт Chrome](https://www.google.com/chrome/)
 3. Нажмите на кнопку **"Скачать Chrome"**
 4. Сохраните установочный файл `Chrome.setup.exe`
